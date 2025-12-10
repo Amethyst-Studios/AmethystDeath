@@ -1,0 +1,8 @@
+death:
+  reward:
+    victim:
+      - "say %player% you died!"
+      - "give %player% minecraft:apple 1"
+    killer:
+      - "say %player% you killed %victim%!"
+      - "give %player% minecraft:gold_ingot 1"
