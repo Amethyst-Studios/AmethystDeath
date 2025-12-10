@@ -1,0 +1,23 @@
+death:
+  drowning:
+    actionbar: "&c%player%&f drowned."
+    chat: "&c%player%&f drowned."
+  lava:
+    actionbar: "&c%player%&f tried to swim in lava."
+    chat: "&c%player%&f tried to swim in lava."
+  void:
+    actionbar: "&c%player%&f fell into the void and vanished."
+    chat: "&c%player%&f fell into the void and vanished."
+  fall:
+    actionbar: "&c%player%&f hit the ground too hard."
+    chat: "&c%player%&f hit the ground too hard."
+  mob:
+    actionbar: "&c%player%&f was killed by a &a%mob%."
+    chat: "&c%player%&f was killed by a &a%mob%."
+  killed:
+    actionbar: "&c%player%&f was slain by &a%killer%&f using %weapon%."
+    chat: "&c%player%&f was slain by &a%killer%&f using %weapon%."
+
+no-permission: "&cYou don't have permission to use this command!"
+reload-success: "&aAmethystDeath configuration reloaded successfully!"
+usage: "&eUsage: /amethystdeath reload"
