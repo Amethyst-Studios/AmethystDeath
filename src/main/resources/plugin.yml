@@ -1,0 +1,4 @@
+name: AmethystDeath
+version: '1.0'
+main: org.AmethystStudios.amethystDeath.AmethystDeath
+api-version: '1.20'
